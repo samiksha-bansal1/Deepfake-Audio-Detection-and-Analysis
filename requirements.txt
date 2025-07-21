@@ -1,7 +1,7 @@
 streamlit
 numpy
 librosa
-tensorflow<2.16 # Or a more specific version like tensorflow==2.15.0
+tensorflow
 matplotlib
 scikit-image
 lim
