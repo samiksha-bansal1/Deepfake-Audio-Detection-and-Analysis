@@ -1,0 +1,7 @@
+streamlit
+numpy
+librosa
+tensorflow # or tensorflow-cpu if you don't need GPU
+matplotlib
+scikit-image # for mark_boundaries in skimage.segmentation
+lime
