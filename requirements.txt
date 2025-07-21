@@ -1,7 +1,7 @@
 streamlit
 numpy
 librosa
-tensorflow # or tensorflow-cpu if you don't need GPU
+tensorflow
 matplotlib
-scikit-image # for mark_boundaries in skimage.segmentation
+scikit-image
 lime
