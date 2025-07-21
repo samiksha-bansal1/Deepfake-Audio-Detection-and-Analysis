@@ -1,7 +1,7 @@
 streamlit
 numpy
-librosa==0.10.1
-tensorflow==2.15.0
+librosa
+tensorflow
 matplotlib
-scikit-image
 lime
+scikit-image
